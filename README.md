@@ -18,6 +18,6 @@ Backend: Node.js, Flask, PostgreSQL
 ⚛️ Exploring Quantum Computing & AI applications
 
 🌟 Let's Connect!
-|🔗 LinkedIn : linkedin.com/in/douaa-ghenam-328690351 
+|🔗 LinkedIn : https://www.linkedin.com/in/douaa-ghenam-328690351 
 |🏆 Kaggle : https://www.kaggle.com/douaaghenam
 
